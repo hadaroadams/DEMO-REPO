@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+}
+.items{
+    display: flex;
+    width: 370px;
+    height: 200px;  
+    margin-top: 20px;
+}
+.itemNum{
+    margin: 0px;
+    padding: 0px ;
+    color: rgb(203, 203, 203);
+    
+}
+.itemImage{
+    width:fit-content;
+    height: 150px;
+}
+.itemTitle{
+    margin: 0px;
+    padding: 0px ;
+}
+.itemHeader{
+    color: gray;
+}
+.itemSub{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    height: 200px;
+}

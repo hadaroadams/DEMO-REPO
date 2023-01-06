@@ -1,0 +1,63 @@
+.Body{
+    display: flex;
+    width: 100%;
+    margin: 0px;
+}
+.leftside-body{
+    width:65%;
+}
+.bodyimage{
+    width:100%
+}
+.leftsub{
+    display: flex;
+}
+input{
+    width:200px
+    
+}
+
+.info{
+    font-size:35px;
+}
+.rightside-body{
+    background-color: black;
+    padding-left: 5px;
+    margin:0 10px;
+    width:35%;
+}
+.header{
+    color: orange;
+}
+label h3 {
+    color: rgb(211, 216, 220);
+}
+hr{
+    width:80%;
+    margin-left: 0px;
+}
+.rightside-body>h1{
+    color: orange;
+}
+.rightside-body>h3{
+    color: azure;
+}
+ .rightside-body>span{
+    color:aliceblue;
+    font-size:small;
+ }
+ .btn{
+    display: block;
+    margin-top: 30px;
+    background-color: orange;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+ }
+ .btn:hover{
+    background-color: rgb(242, 123, 5);
+    transition: 0.3s ease-in;
+ }
+ .subspan{
+    color: rgb(130, 123, 123);
+ }

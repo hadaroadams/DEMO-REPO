@@ -1,0 +1,29 @@
+
+.navbar{
+    margin-top:10px;
+    display: flex;
+
+}
+.logo{
+    cursor: pointer;
+}
+.navbar{
+    width: 100%;
+}
+.leftside-nav{
+    width: 100%;
+}
+ul li{
+    display: inline;
+    margin-right: 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(139, 134, 128);
+}
+a:hover{
+    transition: 1s;
+    border-bottom: solid black;
+    color: black;
+
+}
